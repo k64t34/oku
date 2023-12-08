@@ -1,0 +1,36 @@
+body
+{  background-position: 0% 0%; font-family: Verdana; color:#FFFFFF;
+	font-size:18px;
+	background-image:url('images/background1.bmp'); 
+	background-repeat:repeat; 
+	background-attachment:scroll;
+	scrollbar-base-color:#004499;
+	scrollbar-3dlight-color:#4466BB;
+	scrollbar-arrow-color:#FFFFFF;
+	scrollbar-darkshadow-color:#FFFFFF;
+	scrollbar-highlight-color:#004499;
+	scrollbar-shadow-color:#4466BB;
+	scrollbar-track-color:#4466BB;
+ }
+
+H1
+{  font-family: Tahoma; font-weight:bold;font-size:24px; text-align:center; color:#000000 }
+H2
+{  font-family: Tahoma; color:#FFFFFF; font-size:20px; font-weight:bold; text-align:center; text-decoration:underline  }
+
+a, a:link, a:visited 
+{ color: #FFFF00; font-weight: bold;text-decoration: none underline }
+
+.fld_Edit    { padding:0; 
+			border:3px solid #3C78F0; 
+			background-color: #E6E6E6; 
+			font-family:Arial; 
+			color:#000080; 
+			font-size:14pt }
+.fld_Btm    {  font-family: Tahoma; color: #FFFFFF; font-weight: bold; background-color: 
+               #3366CC}
+.fld_Calendar    {  font-family: Tahoma; color: #FFFFFF; font-weight: bold; background-color: #3366CC}
+               
+.menu_Btm              {  font-family: Tahoma; font-weight:bold; color: #FFFFFF; background-color:  #3399FF}
+
+.menu_Btm_mouseOver    {  font-family: Tahoma; font-weight:bold; color: #FFFFCC;  background-color:  #0000FF}
